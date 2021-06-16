@@ -1,0 +1,1 @@
+CREATE TABLE simrat_personal_workspace.similarity (item text, item_other text, sim decimal, PRIMARY KEY((item), sim, item_other));
