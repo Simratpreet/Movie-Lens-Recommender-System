@@ -1,4 +1,4 @@
-# Movie-Lens-Recommender-System
+# Movie Lens Recommender System
 
 ## Description
 This application recommends movies basis item-item collaborative filtering method. It is built using Movie Lens dataset which provides movie names and their ratings by different users.
